@@ -36,10 +36,6 @@ The website is deployed and accessible [here](#). *Note: The website may take a 
 
 **Medicinal Plant Detection**: Upload an image of a plant, and wait for the model to predict its classification.
 
-## DEMO
-
-![Demo Video](herbify-stream-project.gif)
-
 ## Supported Plants
 
 This model supports 40 medicinal plants: *Aloevera, Amla, Amruta\_Balli, Arali, Ashoka, Ashwagandha, Avocado, Bamboo, Basale, Betel, Betel\_Nut, Brahmi, Castor, Curry\_Leaf, Doddapatre, Ekka, Ganike, Guava, Geranium, Henna, Hibiscus, Honge, Insulin, Jasmine, Lemon, Lemon\_grass, Mango, Mint, Nagadali, Neem, Nithyapushpa, Nooni, Papaya, Pepper, Pomegranate, Raktachandini, Rose, Sapota, Tulasi, Wood\_sorel.*
